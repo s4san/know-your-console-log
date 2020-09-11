@@ -44,8 +44,8 @@ Use this before printing if you expect the console to be cluttered when logging 
 
 ## console.group
 
-TBD
+TBA
 
 ## console.time, console.timeEnd, console.timeLog
 
-TBD
+TBA
